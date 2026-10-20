@@ -2,7 +2,7 @@
 
 Public privacy information for Albiqo, in English, Turkish, German, French, Spanish and Italian.
 
-Published at https://drafttasarim.github.io/albiqo-privacy/
+Published at https://drafttasarim.github.io/Albiqo-privacy/
 
 Contact: info@drafttasarim.com
 
